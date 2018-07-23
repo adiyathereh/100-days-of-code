@@ -9,3 +9,10 @@
 **Link to work:** [Salesman's Travel challenge](https://github.com/adiyathereh/projects/tree/master/salesmansTravels)
 
 
+### Day 2: July 23, 2018 
+
+**Today's Progress**: Continued looking into react following the freeCodeCamp course. Learned about states, props, events 
+
+**Thoughts:** I start getting how the bind method works. Actually quite happy that I could reproduce the Form exercise from scratch.
+
+**Link to work:** [Form component in react](https://codepen.io/adiya/pen/ajWvNw?editors=1010)
